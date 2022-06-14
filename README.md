@@ -2,4 +2,6 @@
 
 Hi!
 
-I'm Grant. I like programming and drinking tea.
+I'm Grant.
+
+Water is better than coffee.
